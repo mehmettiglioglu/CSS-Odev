@@ -5,14 +5,16 @@ body{
 nav{
     text-align: center;
     font-size:26px;
-    background-color: #F4BFBF;
+    background-color: #FFD9C0;
+    border-style: groove;
 }
 hr{
-    border-width: 2px;
+    border-width: 1px;
+    border-color:black;
 }
 a{
     padding: 50px;
-    color: #FAF0D7;
+    color: black;
 }
 h1{
     color: black;
